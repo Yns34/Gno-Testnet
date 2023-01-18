@@ -1,12 +1,12 @@
 # Gno
 
-At first, there was Bitcoin, out of entropy soup of the greater All.
-Then, there was Ethereum, which was created in the likeness of Bitcoin,
-but made Turing complete.
+İlk başta, daha büyük Tüm'ün entropi çorbasından çıkan Bitcoin vardı.
+Sonra, Bitcoin benzerliğinde yaratılan Ethereum vardı,
+ama Turing'i tamamladı.
 
-Among these were Tendermint and Cosmos to engineer robust PoS and IBC.
-Then came Gno upon Cosmos and there spring forth Gnoland,
-simulated by the Gnomes of the Greater Resistance.
+Bunlar arasında sağlam PoS ve IBC mühendisliği için Tendermint ve Cosmos da vardı.
+Sonra Cosmos'a Gno geldi ve orada Gnoland ortaya çıktı,
+Büyük Direnişin Cüceleri tarafından simüle edildi.
 
 ## Install `gnokey`
 
@@ -14,16 +14,16 @@ simulated by the Gnomes of the Greater Resistance.
 > cd ./gno<br/>
 > make install\_gnokey<br/>
 
-Also, see the [quickstart guide](https://test2.gno.land/r/boards:testboard/5).
+Ayrıca [hızlı başlangıç kılavuzuna](https://test2.gno.land/r/boards:testboard/5) bakın.
 
 ## Language Features
 
- * Like interpreted Go, but more ambitious.
- * Completely deterministic, for complete accountability.
- * Transactional persistence across data realms.
- * Designed for concurrent blockchain smart contracts systems.
+* Git gibi yorumlanır ama daha iddialı.
+* Tam hesap verebilirlik için tamamen deterministik.
+* Veri alemlerinde işlem sürekliliği.
+* Eşzamanlı blockchain akıllı sözleşme sistemleri için tasarlanmıştır.
 
-## Contact
+## İletişim
 
  * Discord: https://discord.gg/YFtMjWwUN7 <-- join now
  * Gnoland: https://gno.land/r/boards:gnolang
